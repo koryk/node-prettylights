@@ -26,7 +26,6 @@
     "dotenv": "^0.4.0",
     "lodash": "^2.4.1",
     "nedb": "^1.1.1",
-    "node-hue-api": "peter-murray/node-hue-api.git#dev-1.0.0",
-    "twitch-irc": "^1.1.13"
+    "tmi.js": "0.0.24"
   }
 }
